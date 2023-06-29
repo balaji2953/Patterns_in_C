@@ -1,4 +1,4 @@
-//Right angle triangle
+//InvertedRight angle triangle
 #include<stdio.h>
 int main()
 {
