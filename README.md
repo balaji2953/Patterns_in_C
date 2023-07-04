@@ -7,5 +7,3 @@ To get started with these pattern programs, make sure you have a C compiler inst
 
 ## Clone the repository to your local machine using the following command:
  git clone https://github.com/balaji2953/Patterns_in_C.git
-
-### Feel free to explore pattern programs in the repository
